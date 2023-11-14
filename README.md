@@ -1,3 +1,9 @@
+This is just a buch of stuff for the LilyGO T-picoC3
+
+
+
+Here is their info:
+
 <h1 align = "center"> 🌟LilyGO T-PicoC3🌟</h1>
 
 
